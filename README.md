@@ -2,7 +2,7 @@
 
 ## I am a fan of finance and artificial intelligence!
 
-- 🔭 After more than 2 years of research, I have finally launched my first share purchase management tool https://github.com/romain-mondelice/SOLOMON-Conv1D_IRR_PRED.
+- 🔭 You can find here all my works related to finance and artificial intelligence. All these solutions are only prototypes. Some of them seem to work but it is strongly advised not to use them on financial markets in automatic mode. 
 - 🌱 I am currently learning finance and deepening my skills in artificial intelligence.
 - 👯 I am looking to collaborate with other people who are passionate about finance and artificial intelligence.
 - 🥅 2022 Goals: Find a job in finance.
