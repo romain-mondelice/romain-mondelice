@@ -27,7 +27,7 @@
 ### 👀 SOLOMON Projects : Use of artificial intelligence for predict risk and volatility.
 ---
 <p align="center">
-  <img src="https://github.com/romain-mondelice/SOLOMON-Conv1D_IRR_PRED/blob/main/SOLOMON%20Projects%20(1).gif">
+  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Stokcs/blob/main/SOLOMON%20Projects%20(2).gif">
 </p>
 
 ## SOLOMON-IRR : Stocks
@@ -38,23 +38,23 @@ Graph of the different entries based on the risk ratio predictions made with my 
 - **Purple triangle** : Other entries for long position that have predicted the AI
 <p align="center">
   <p>#AMZN</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON-Conv1D_IRR_PRED/blob/main/Saved%20predicted%20df%20and%20screens/%23AMZN-final-test_plot_2019-2021.png">
+  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Stokcs/blob/main/screens/%23AMZN-final-test_plot_2019-2021.png">
 </p>
 <p align="center">
   <p>#GOOG</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON-Conv1D_IRR_PRED/blob/main/Saved%20predicted%20df%20and%20screens/%23GOOG-final-test_plot_2019-2021.png">
+  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Stokcs/blob/main/screens/%23GOOG-final-test_plot_2019-2021.png">
 </p>
 <p align="center">
   <p>#KER</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON-Conv1D_IRR_PRED/blob/main/Saved%20predicted%20df%20and%20screens/%23KER-final-test_plot_2019-2021.png">
+  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Stokcs/blob/main/screens/%23KER-final-test_plot_2019-2021.png">
 </p>
 <p align="center">
   <p>#MC.FR</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON-Conv1D_IRR_PRED/blob/main/Saved%20predicted%20df%20and%20screens/%23MC.FR-final-test_plot_2019-2021.png">
+  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Stokcs/blob/main/screens/%23MC.FR-final-test_plot_2019-2021.png">
 </p>
 <p align="center">
   <p>#RMS</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON-Conv1D_IRR_PRED/blob/main/Saved%20predicted%20df%20and%20screens/%23RMS-final-test_plot_2019-2021.png">
+  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Stokcs/blob/main/screens/%23RMS-final-test_plot_2019-2021.png">
 </p>
 
 ## SOLOMON-IRR : Crypto
@@ -68,28 +68,28 @@ Ask me via mail (mondelice.romain@gmail.com) for more test data and better visua
 - **Purple triangle** : Other entries for long position that have predicted the AI 
 
 <p align="center">
-  <p>Future #BTCUSDT - 7061 points profits</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON-Conv1D_IRR_PRED/blob/main/Saved%20predicted%20df%20and%20screens/%23AMZN-final-test_plot_2019-2021.png">
+  <p>Future #BTCUSDT - 7061 points profits - 10/16/2021</p>
+  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Crypto/blob/main/screens/FutureBTCUSDT-final-test_plot-16-10-2021.png">
 </p>
 
 <p align="center">
-  <p>Future #BTCUSDT - 7061 points profits</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON-Conv1D_IRR_PRED/blob/main/Saved%20predicted%20df%20and%20screens/%23AMZN-final-test_plot_2019-2021.png">
+  <p>Future #BTCUSDT - 4714 points profits - 10/23/2021</p>
+  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Crypto/blob/main/screens/FutureBTCUSDT-final-test_plot-23-10-2021.png">
 </p>
 
 <p align="center">
-  <p>Future #BTCUSDT - 7061 points profits</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON-Conv1D_IRR_PRED/blob/main/Saved%20predicted%20df%20and%20screens/%23AMZN-final-test_plot_2019-2021.png">
+  <p>Future #BTCUSDT - 7526 points profits - 10/30/2021</p>
+  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Crypto/blob/main/screens/FutureBTCUSDT-final-test_plot-30-10-2021.png">
 </p>
 
 <p align="center">
-  <p>Future #BTCUSDT - 7061 points profits</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON-Conv1D_IRR_PRED/blob/main/Saved%20predicted%20df%20and%20screens/%23AMZN-final-test_plot_2019-2021.png">
+  <p>Future #BTCUSDT - 6345 points profits - 11/06/2021</p>
+  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Crypto/blob/main/screens/FutureBTCUSDT-final-test_plot-6-11-2021.png">
 </p>
 
 <p align="center">
-  <p>Future #BTCUSDT - 7061 points profits</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON-Conv1D_IRR_PRED/blob/main/Saved%20predicted%20df%20and%20screens/%23AMZN-final-test_plot_2019-2021.png">
+  <p>Future #BTCUSDT - 5561 points profits - 11/12/2021</p>
+  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Crypto/blob/main/screens/FutureBTCUSDT-final-test_plot-12-11-2021.png">
 </p>
 
 
