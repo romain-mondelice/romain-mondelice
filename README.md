@@ -57,42 +57,6 @@ Graph of the different entries based on the risk ratio predictions made with my 
   <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Stokcs/blob/main/screens/%23RMS-final-test_plot_2019-2021.png">
 </p>
 
-## SOLOMON-IRR : Crypto
-Graph of the different entries and take profits based on price predictions made with my solomon program : **FROM 10/16/2021 to 11/12/2021**\
-Ask me via mail (mondelice.romain@gmail.com) for more test data and better visualisation with candle sticks if needed.
-
-- **Blue line** : Close price 
-- **Cyan line** : Predicted close price 
-- **Yellow lines** : High and low prices 
-- **Green triangle** : First long entry position that have predicted the AI 
-- **Purple triangle** : Other entries for long position that have predicted the AI 
-
-<p align="center">
-  <p>Future #BTCUSDT - 7061 points profits - 10/16/2021</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Crypto/blob/main/screens/FutureBTCUSDT-final-test_plot-16-10-2021.png">
-</p>
-
-<p align="center">
-  <p>Future #BTCUSDT - 4714 points profits - 10/23/2021</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Crypto/blob/main/screens/FutureBTCUSDT-final-test_plot-23-10-2021.png">
-</p>
-
-<p align="center">
-  <p>Future #BTCUSDT - 7526 points profits - 10/30/2021</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Crypto/blob/main/screens/FutureBTCUSDT-final-test_plot-30-10-2021.png">
-</p>
-
-<p align="center">
-  <p>Future #BTCUSDT - 6345 points profits - 11/06/2021</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Crypto/blob/main/screens/FutureBTCUSDT-final-test_plot-6-11-2021.png">
-</p>
-
-<p align="center">
-  <p>Future #BTCUSDT - 5561 points profits - 11/12/2021</p>
-  <img src="https://github.com/romain-mondelice/SOLOMON_IRR-Crypto/blob/main/screens/FutureBTCUSDT-final-test_plot-12-11-2021.png">
-</p>
-
-
 
 
 
