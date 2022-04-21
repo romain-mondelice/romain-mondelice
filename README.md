@@ -2,7 +2,7 @@
 
 ## I am passionate about finance and artificial intelligence!
 
-- 🔭 You can find here all my works related to finance and artificial intelligence. All these solutions are only prototypes. Some of them seem to work but it is strongly advised not to use them on financial markets in automatic mode. 
+- 🔭 You can find here a little part my works related to finance and artificial intelligence. All these solutions are only prototypes. Some of them seem to work but it is strongly advised not to use them on financial markets in automatic mode. 
 - 🌱 I am currently learning finance and deepening my skills in artificial intelligence.
 - 👯 I am looking to collaborate with other people who are passionate about finance and artificial intelligence.
 - 🥅 2022 Goals: Find a job in finance.
