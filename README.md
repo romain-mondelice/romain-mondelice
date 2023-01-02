@@ -1,17 +1,17 @@
 ### Hi there, I'm Romain Mondelice 👋
 
-## I am passionate about finance and artificial intelligence!
+## I am passionate about artificial intelligence!
 
-- 🔭 You can find here a little part my works related to finance and artificial intelligence. All these solutions are only prototypes. Some of them seem to work but it is strongly advised not to use them on financial markets in automatic mode. 
-- 🌱 I am currently learning finance and deepening my skills in artificial intelligence.
-- 👯 I am looking to collaborate with other people who are passionate about finance and artificial intelligence.
-- 🥅 2022 Goals: Find a job in finance.
+- 🔭 You can find here a little part my works related to artificial intelligence. All these solutions are only prototypes. Some of them seem to work but it is strongly advised not to use them on financial markets in automatic mode. 
+- 🌱 I am currently deepening my skills in artificial intelligence.
+- 👯 I am looking to collaborate with other people who are passionate about artificial intelligence.
+- 🥅 2023 Goals: Learn more and more about artificial intelligence. Develop my company (https://inference-corporation.com/)
 
 ### Connect with me:
 
 - 📧 mondelice.romain@gmail.com
 
-### 📕 Last research paper I want to apply to finance
+### 📕 Last research paper I want to test
 
 <!-- BLOG-POST-LIST:START -->
 - [GROKKING: GENERALIZATION BEYOND OVERFITTING ON SMALL ALGORITHMIC DATASETS](https://mathai-iclr.github.io/papers/papers/MATHAI_29_paper.pdf)<br />
@@ -23,6 +23,16 @@
 <!-- BLOG-POST-LIST:START -->
 - [CORNELL UNIVERSITY](https://arxiv.org/list/cs.LG/recent)
 <!-- BLOG-POST-LIST:END -->
+
+### 👀 INFERENCE Corporation: https://inference-corporation.com/
+
+### 👀 Decentralized Exchange (code in private): https://inference-finance.com/
+
+### 👀 IMAGE GENERATION (VQGAN+CLIP) Phone wallpaper (code in private): https://opensea.io/collection/halfbreed-phone-wallpaper-collection
+
+### 👀 IMAGE CLASSIFICATION (medical)
+
+### 👀 NLP (for finance)
 
 ### 👀 SOLOMON Projects : Use of artificial intelligence for predict risk and volatility.
 ---
