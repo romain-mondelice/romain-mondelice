@@ -5,7 +5,7 @@
 - 🔭 You can find here a little part my works related to artificial intelligence. All these solutions are only prototypes. Some of them seem to work but it is strongly advised not to use them on financial markets in automatic mode. 
 - 🌱 I am currently deepening my skills in artificial intelligence.
 - 👯 I am looking to collaborate with other people who are passionate about artificial intelligence.
-- 🥅 2023 Goals: Learn more and more about artificial intelligence. Develop my company (https://inference-corporation.com/)
+- 🥅 2023 Goals: Learn more and more about artificial intelligence. Develop my company (https://inference-studio.com/)
 
 ### Connect with me:
 
