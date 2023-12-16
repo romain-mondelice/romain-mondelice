@@ -1,6 +1,6 @@
 ### Hi there, I'm Romain Mondelice 👋
 
-## I am passionate about artificial intelligence & Finance!
+## I am passionate about artificial intelligence!
 
 - 🔭 You can find here a little part my works related to artificial intelligence. All these solutions are only prototypes. Some of them seem to work but it is strongly advised not to use them on financial markets in automatic mode. 
 - 🌱 I am currently deepening my skills in artificial intelligence.
